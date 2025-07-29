@@ -10,6 +10,8 @@ namespace TestDeploy
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("TestDeploy Project");
         }
     }
 }
